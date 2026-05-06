@@ -1,7 +1,14 @@
 /*
- * Home page component for BiteBuddy.
- * Displays a map and a list of food listings fetched from Firestore.
- */
+Project: BiteBuddy - Food Sharing Application
+Group Members:
+- Member 1: Yashkumar Pandya
+- Member 2: Dev Chhatrala
+
+  Home Page Component
+  Displays a map and a list of food listings fetched from Firestore.
+
+*/
+
 "use client";
 import { useState, useEffect } from "react";
 import Map from "./components/Map";
